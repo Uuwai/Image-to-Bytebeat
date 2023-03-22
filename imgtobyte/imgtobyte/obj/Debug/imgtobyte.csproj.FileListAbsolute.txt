@@ -1,0 +1,9 @@
+C:\Users\Kapi\source\repos\imgtobyte\imgtobyte\bin\Debug\imgtobyte.exe
+C:\Users\Kapi\source\repos\imgtobyte\imgtobyte\bin\Debug\imgtobyte.pdb
+C:\Users\Kapi\source\repos\imgtobyte\imgtobyte\obj\Debug\imgtobyte.csproj.AssemblyReference.cache
+C:\Users\Kapi\source\repos\imgtobyte\imgtobyte\obj\Debug\imgtobyte.Form1.resources
+C:\Users\Kapi\source\repos\imgtobyte\imgtobyte\obj\Debug\imgtobyte.Properties.Resources.resources
+C:\Users\Kapi\source\repos\imgtobyte\imgtobyte\obj\Debug\imgtobyte.csproj.GenerateResource.cache
+C:\Users\Kapi\source\repos\imgtobyte\imgtobyte\obj\Debug\imgtobyte.csproj.CoreCompileInputs.cache
+C:\Users\Kapi\source\repos\imgtobyte\imgtobyte\obj\Debug\imgtobyte.exe
+C:\Users\Kapi\source\repos\imgtobyte\imgtobyte\obj\Debug\imgtobyte.pdb
